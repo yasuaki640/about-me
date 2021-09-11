@@ -1,5 +1,3 @@
-# About
-
 I'm web developer writing PHP, Laravel, JS, Vue and more.
 
 I like to write programs and study information engineering as a hobby in my private life, and often upload my codes to Github and blogs.
